@@ -1,0 +1,7 @@
+﻿1.https://dejanstojanovic.net/aspnet/2015/january/application-plugin-host-with-assembly-caching-and-auto-reloading/
+2.https://stackoverflow.com/questions/47231723/net-reload-assembly-at-runtime
+3.https://stackoverflow.com/questions/17838378/is-assembly-loadfrom-keeping-an-open-file-handle
+4.https://github.com/buunguyen/fasterflect
+5.https://stackoverflow.com/questions/29247864/how-can-i-specify-end-time-for-a-quartz-net-simple-trigger-on-minute-recurrence
+6.https://www.cnblogs.com/elcid/articles/quartznetcron.html
+7.https://stackoverflow.com/questions/24321042/how-to-add-job-with-trigger-for-running-quartz-net-scheduler-instance-without-re
